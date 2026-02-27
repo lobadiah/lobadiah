@@ -27,10 +27,14 @@ I'm a passionate developer, AI Engineer and data science enthusiast dedicated to
 
 ## Featured Projects
 
-- [Project 1](link-to-project-1)
-- [Project 2](link-to-project-2)
+- [Project 1]([link-to-project-1](https://github.com/lobadiah/cnn_brain_tumor-_classification.git))
+- [Project 2]([link-to-project-2](https://github.com/lobadiah/Bias-and-Fairness-in-AI-Systems-Empirical-Validation-Through-Reweighing-Mitigation.git))
+[Project 3]([link-to-project-3 (https://github.com/lobadiah/medical_insurance_premium_prediction_using_machine_learning_and_deep_learning_techniques.git))
+[Project 4]([link-to-project-4 (https://github.com/lobadiah/medical_insurance_premium_prediction_using_machine_learning_and_deep_learning_techniques.git))
+
 
 ## Let's Connect
+
 
 I'm always interested in collaborating on innovative projects and discussing the latest in tech!
 
