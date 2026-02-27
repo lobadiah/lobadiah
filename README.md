@@ -20,12 +20,10 @@ I'm a passionate developer, AI Engineer and data science enthusiast dedicated to
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, SQL, R,   HTML & CSS and React
-
-**ML/DL Frameworks:** TensorFlow, Keras, scikit-learn, pandas, NumPy  
-**Data Tools:** Jupyter Notebook, Matplotlib, Seaborn  
-**Other:** Git, REST APIs, Git
-## Skills
+**Languages:** Python, JavaScript, SQL, R,   HTML & CSS and React.
+**ML/DL Frameworks:** TensorFlow, Keras, scikit-learn, pandas, NumPy.  
+**Data Tools:** Jupyter Notebook, Matplotlib, Seaborn.  
+**Other:** Git, REST APIs, Git.
 
 ## Featured Projects
 
