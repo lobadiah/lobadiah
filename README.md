@@ -36,7 +36,7 @@ I'm a passionate developer, AI Engineer and data science enthusiast dedicated to
 I'm always interested in collaborating on innovative projects and discussing the latest in tech!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/lobadiah)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:louisobadiah@gmail.com)
 
 ## 📝 Latest Activities
 
