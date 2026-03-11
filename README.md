@@ -35,6 +35,44 @@ I'm a passionate developer, AI Engineer and data science enthusiast dedicated to
 
 [Project 4]([link-to-project-4 (https://github.com/lobadiah/Simple-Cal..git))
 
+---
+
+## 🧠 CNN Image Classification Projects
+
+Two CNN image classification projects were recently completed and merged into this repository.
+
+### Project A — Medical Image Classification (Brain Tumor MRI)
+**File:** [`brain_tumor_cnn_classification.ipynb`](brain_tumor_cnn_classification.ipynb)  
+**PR:** [#1 — Add Brain Tumor MRI CNN Classification Jupyter Notebook](https://github.com/lobadiah/lobadiah/pull/1) — ✅ **Merged**  
+**Domain:** Medical (Brain Tumor MRI — distinct domain)  
+**Approach:** Custom CNN + MobileNetV2 transfer learning, data augmentation, performance evaluation (accuracy, precision, recall, F1, confusion matrix, learning curves).
+
+### Project B — Satellite Land-Use Classification (EuroSAT)
+**File:** [`cnn_image_classification.ipynb`](cnn_image_classification.ipynb)  
+**PR:** [#2 — Add EuroSAT CNN image classification notebook](https://github.com/lobadiah/lobadiah/pull/2) — ✅ **Merged**  
+**Domain:** Satellite imagery (EuroSAT — 10 land-use classes, completely distinct domain)  
+**Approach:** Custom CNN + MobileNetV2 transfer learning, controlled experiments (augmentation effect, optimizer comparison, fine-tuning), full rubric coverage.
+
+### Feature-Based Classification (Bonus — Copy-Paste for VS Code / Jupyter)
+**File:** [`brain_tumor_feature_classification.py`](brain_tumor_feature_classification.py)  
+Traditional feature extraction (HOG, LBP, Sobel edges) + ML classifiers (SVM, Random Forest, k-NN, Logistic Regression) on the Brain Tumor dataset.  
+Copy each `# %%` block into a VS Code Jupyter cell or Jupyter Notebook cell and run directly.  
+**Dataset path already set to:** `C:\Users\louis\Desktop\ML Project\brain_tumor_dataset`
+
+---
+
+## 📌 How to Find PRs / Merged Work on GitHub
+
+| Step | What to do |
+|------|-----------|
+| **Open PRs** | Go to `https://github.com/lobadiah/lobadiah/pulls` |
+| **Closed / Merged PRs** | Click the **Closed** tab on the Pull Requests page |
+| **Merged notebooks** | Once a PR is merged, its files appear directly in the repository's file list on the main branch |
+| **PR history** | Each PR page (e.g. [#1](https://github.com/lobadiah/lobadiah/pull/1), [#2](https://github.com/lobadiah/lobadiah/pull/2)) shows the full diff, review comments, and merge timestamp |
+| **Specific file** | Click any `.ipynb` file in the repo to view it rendered in GitHub's notebook viewer |
+
+> **Note:** Both CNN projects (PR #1 and PR #2) are already merged. Their notebooks are live in the `main` branch and visible in this repository right now.
+
 
 ## Let's Connect
 
