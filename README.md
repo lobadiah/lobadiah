@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! 👋
 
 ## About Me
-I'm a passionate developer, AI Engineer and data science enthusiast dedicated to building innovative solutions that solve real-world problems. With expertise across machine learning, deep learning, and full-stack development, I transform ideas into impactful code.
-- 🌍 I'm based in Istanbu, Turkey.
+I'm a passionate developer, AI Engineer, and data science enthusiast dedicated to building innovative solutions that solve real-world problems. With expertise across machine learning, deep learning, and full-stack development, I transform ideas into impactful code.
+- 🌍 I'm based in Istanbul, Turkey.
 - 🧠 I'm passionate about learning to code and making projects!
 - 🎨 I love creating useful and interactive applications.
 - 📫 You can reach me at: louisobadiah@gmail.com
@@ -20,7 +20,7 @@ I'm a passionate developer, AI Engineer and data science enthusiast dedicated to
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, SQL, R,   HTML & CSS and React.
+**Languages:** Python, JavaScript, SQL, R,   HTML & CSS, and React.
 **ML/DL Frameworks:** TensorFlow, Keras, scikit-learn, pandas, NumPy.  
 **Data Tools:** Jupyter Notebook, Matplotlib, Seaborn.  
 **Other:** Git, REST APIs, Git.
@@ -57,7 +57,7 @@ Two CNN image classification projects were recently completed and merged into th
 **File:** [`brain_tumor_feature_classification.py`](brain_tumor_feature_classification.py)  
 Traditional feature extraction (HOG, LBP, Sobel edges) + ML classifiers (SVM, Random Forest, k-NN, Logistic Regression) on the Brain Tumor dataset.  
 Copy each `# %%` block into a VS Code Jupyter cell or Jupyter Notebook cell and run directly.  
-**Dataset path already set to:** `C:\Users\louis\Desktop\ML Project\brain_tumor_dataset`
+**Dataset path already set to:** `C:\Users\louis\Desktop\ML Project\brain_tumor_dataset.`
 
 ---
 
@@ -88,5 +88,6 @@ I'm always interested in collaborating on innovative projects and discussing the
 - 📚 Continuously learning and experimenting with new technologies
 - 🤖 Exploring deep learning applications in healthcare
 
-- <img width="450" height="750" alt="louis3" src="https://github.com/user-attachments/assets/b98efc45-9410-4378-9c12-049929b50d60" />
+<img width="450" height="750" alt="louis3" src="https://github.com/user-attachments/assets/3e8fb5ce-605d-4988-bc39-ed0860f9fade" />
+
 
