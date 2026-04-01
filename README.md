@@ -88,5 +88,5 @@ I'm always interested in collaborating on innovative projects and discussing the
 - 📚 Continuously learning and experimenting with new technologies
 - 🤖 Exploring deep learning applications in healthcare
 
-- <img width="944" height="1132" alt="louis3" src="https://github.com/user-attachments/assets/b98efc45-9410-4378-9c12-049929b50d60" />
+- <img width="450" height="750" alt="louis3" src="https://github.com/user-attachments/assets/b98efc45-9410-4378-9c12-049929b50d60" />
 
