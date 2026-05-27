@@ -72,11 +72,12 @@ Copy each `# %%` block into a VS Code Jupyter cell or Jupyter Notebook cell and 
 | **Specific file** | Click any `.ipynb` file in the repo to view it rendered in GitHub's notebook viewer |
 
 > **Note:** Both CNN projects (PR #1 and PR #2) are already merged. Their notebooks are live in the `main` branch and visible in this repository right now.
->
+
 > ## Research Publications
-**Lead Author**
+#Lead Author
 **Obadiah, L. A.**, Godwin, D., Edward, N. M., Abubakar, N. M., Daniel, J., & Titus, D. K. (2026). Bias and Fairness in AI Systems: Theoretical Analysis and Empirical Validation Through Reweighing Mitigation. In Proceedings of the 8th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (ICHORA 2026). Ankara, Türkiye, May 21–23, 2026. IEEE. (Paper ID: 581) [Oral Presentation]
-**Co-Author**
+>
+#Co-Author
 Daniel, J., Wilson, S., Edward, N. M., Ishaya, C., Musa, Z. S., Augustine, V., Bello, Y. G., **Obadiah, L. A.**, & Titus, D. K. (2026). Explainable Prediction of Daily Stress and Sleep Quality from Passive Smartphone Behavioral Sensing: A SHAP-Based Analysis of the StudentLife Dataset. In Proceedings of the 8th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (ICHORA 2026). Ankara, Türkiye, May 21–23, 2026. IEEE. (Paper ID: 569) [Oral Presentation]
 
 
